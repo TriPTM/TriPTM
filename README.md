@@ -109,12 +109,12 @@ I care about shipping software that works outside the local machine: tested, con
 
 ---
 
-## GitHub stats
+<!-- ## GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TriPTM&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriPTM&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 > Note: Top languages reflect GitHub repository language usage, not overall skill level.
 
