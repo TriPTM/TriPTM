@@ -107,7 +107,7 @@ I care about shipping software that works outside the local machine: tested, con
 - Writing better tests and improving code quality
 - Learning how to combine backend engineering with **AI-powered workflows**
 
----
+<!-- ---
 
 <!-- ## GitHub stats
 
@@ -118,7 +118,7 @@ I care about shipping software that works outside the local machine: tested, con
 
 > Note: Top languages reflect GitHub repository language usage, not overall skill level.
 
----
+--- -->
 
 ## A little more about me
 
